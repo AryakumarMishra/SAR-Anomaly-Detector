@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "pixel_area_size": 106,
+        "pixel_bounding_box": {
+            "col_start": 25144,
+            "row_start": 960,
+            "col_end": 25145,
+            "row_end": 1015
+        }
+    },
+    {
+        "id": 2,
+        "pixel_area_size": 114,
+        "pixel_bounding_box": {
+            "col_start": 25145,
+            "row_start": 1603,
+            "col_end": 25146,
+            "row_end": 1661
+        }
+    },
+    {
+        "id": 3,
+        "pixel_area_size": 35,
+        "pixel_bounding_box": {
+            "col_start": 25145,
+            "row_start": 1664,
+            "col_end": 25146,
+            "row_end": 1683
+        }
+    },
+    {
+        "id": 4,
+        "pixel_area_size": 112,
+        "pixel_bounding_box": {
+            "col_start": 25145,
+            "row_start": 2362,
+            "col_end": 25146,
+            "row_end": 2418
+        }
+    },
+    {
+        "id": 5,
+        "pixel_area_size": 162,
+        "pixel_bounding_box": {
+            "col_start": 25144,
+            "row_start": 3244,
+            "col_end": 25145,
+            "row_end": 3325
+        }
+    },
+    {
+        "id": 6,
+        "pixel_area_size": 31,
+        "pixel_bounding_box": {
+            "col_start": 25144,
+            "row_start": 3328,
+            "col_end": 25145,
+            "row_end": 3344
+        }
+    },
+    {
+        "id": 7,
+        "pixel_area_size": 108,
+        "pixel_bounding_box": {
+            "col_start": 25144,
+            "row_start": 3526,
+            "col_end": 25145,
+            "row_end": 3581
+        }
+    },
+    {
+        "id": 8,
+        "pixel_area_size": 249,
+        "pixel_bounding_box": {
+            "col_start": 25144,
+            "row_start": 3584,
+            "col_end": 25145,
+            "row_end": 3709
+        }
+    },
+    {
+        "id": 9,
+        "pixel_area_size": 35,
+        "pixel_bounding_box": {
+            "col_start": 25144,
+            "row_start": 3712,
+            "col_end": 25145,
+            "row_end": 3731
+        }
+    },
+    {
+        "id": 10,
+        "pixel_area_size": 36,
+        "pixel_bounding_box": {
+            "col_start": 25146,
+            "row_start": 7147,
+            "col_end": 25147,
+            "row_end": 7165
+        }
+    },
+    {
+        "id": 11,
+        "pixel_area_size": 89,
+        "pixel_bounding_box": {
+            "col_start": 25146,
+            "row_start": 7168,
+            "col_end": 25147,
+            "row_end": 7213
+        }
+    },
+    {
+        "id": 12,
+        "pixel_area_size": 34,
+        "pixel_bounding_box": {
+            "col_start": 25140,
+            "row_start": 8002,
+            "col_end": 25145,
+            "row_end": 8008
+        }
+    },
+    {
+        "id": 14,
+        "pixel_area_size": 100,
+        "pixel_bounding_box": {
+            "col_start": 25139,
+            "row_start": 8848,
+            "col_end": 25140,
+            "row_end": 8900
+        }
+    },
+    {
+        "id": 15,
+        "pixel_area_size": 70,
+        "pixel_bounding_box": {
+            "col_start": 25140,
+            "row_start": 9421,
+            "col_end": 25141,
+            "row_end": 9458
+        }
+    },
+    {
+        "id": 16,
+        "pixel_area_size": 66,
+        "pixel_bounding_box": {
+            "col_start": 25141,
+            "row_start": 9787,
+            "col_end": 25142,
+            "row_end": 9822
+        }
+    },
+    {
+        "id": 17,
+        "pixel_area_size": 17,
+        "pixel_bounding_box": {
+            "col_start": 25138,
+            "row_start": 9848,
+            "col_end": 25141,
+            "row_end": 9852
+        }
+    }
+]
